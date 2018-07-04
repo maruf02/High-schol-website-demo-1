@@ -1,0 +1,114 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*css for header and footer*/
+*
+{
+	margin:0px;
+	padding:0px;
+	
+
+}
+a
+{
+	text-decoration:none;
+}
+#wrap
+{
+	border:2px double #8B00E8;
+	height:920px;
+	width: 1100px;
+	margin:auto;
+	margin-top:10px;
+	margin-bottom:10px;
+	
+}
+
+
+#head
+{
+	/*border: 2px solid #0D51F0;*/
+	background-color:#128EDC;
+	height: 80px;
+	width:1090px;
+	margin:auto;
+	margin:3px;
+}
+
+#hdlog
+{
+	/*border:1px solid #E70C10;*/
+	float:left;
+	height:70px;
+	width:100px;
+	margin:auto;
+	margin:3px;}
+
+#hdname
+{
+	/*border:1px solid #BF0CE7;*/
+	float:right;
+	height:70px;
+	width:970px;
+	margin:auto;
+	margin:3px;
+}
+
+ 
+ #footer
+ {
+	border: 2px solid #C8BB03;
+	height: 400px;
+	width:1090px;
+	margin:auto;
+	margin:3px;
+	margin-top:15px;
+ }
+ 
+ 
+ #footerLeft
+ {
+	border-right:5px solid #BF0CE7;
+	float:left;
+	height:320px;
+	width:345px;
+	margin:auto;
+	margin:3px;
+	margin-left:10px;
+	margin-top:15px; 
+ }
+ #footerMid
+ {
+	 border-right:5px solid #BF0CE7;
+	float:left;
+	height:320px;
+	width:365px;
+	margin:auto;
+	
+	
+	margin-top:15px;
+ }
+ #footerRight
+ {
+	 /*border:1px solid #BF0CE7;*/
+	float:left;
+	height:320px;
+	width:345px;
+	margin:auto;
+	margin:3px;
+	
+	margin-top:15px;
+ }
+ 
+ #footerButtom
+ {
+	 border-top:5px solid #BF0CE7;
+	float:left;
+	height:50px;
+	width:1065px;
+	margin:auto;
+	margin:3px;
+	margin-left:10px;
+	margin-right:10px;
+	
+ }

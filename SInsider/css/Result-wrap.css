@@ -1,0 +1,130 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*css for header and footer*/
+*
+{
+	margin:0px;
+	padding:0px;
+	
+
+}
+a
+{
+	text-decoration:none;
+}
+
+#wrap
+{
+	border:1px solid #6F07B4;
+	height:1460px;
+	width: 1100px;
+	margin:auto;
+	margin-top: 20px;
+	border-radius:15px;
+	
+}
+
+
+#head
+{
+	border: 2px solid #0D51F0;
+	background-color:#128EDC;
+	height: 100px;
+	width:1090px;
+	margin:auto;
+	margin:3px;
+	border-radius:15px;
+}
+
+#hdlog
+{
+	/*border:1px solid #E70C10;*/
+	float:left;
+	height:90px;
+	width:100px;
+	margin:auto;
+	margin:3px;
+	margin-left:10px;
+}
+
+#hdname
+{
+	/*border:1px solid #BF0CE7;*/
+	float:right;
+	height:90px;
+	width:970px;
+	margin:auto;
+	margin:3px;
+}
+
+ h1
+{
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size:45px;
+	font-style:oblique;
+	text-align:center;
+	line-height:70px;
+}
+
+h2
+{
+	font-family:siyam rupali;
+}
+ 
+ 
+ #footer
+ {
+	border-top: 2px solid #6F07B4;
+	/*background-color:#6B6B6B;*/
+	height: 200px;
+	width:1100px;
+	margin:auto;
+	margin-top:45px;
+	border-radius:12px;
+ }
+ 
+ 
+ #footerLeft
+ {
+	border-right:2px dotted #BF0CE7;
+	float:left;
+	height:160px;
+	width:345px;
+	margin:auto;
+	margin:3px;
+	margin-left:10px;
+	margin-top:15px;
+ }
+ #footerMid
+ {
+	 border-right:2px dotted #BF0CE7;
+	float:left;
+	height:160px;
+	width:365px;
+	margin:auto;
+	margin-top:15px;
+ }
+ #footerRight
+ {
+	  /*border:1px solid #BF0CE7;*/
+	float:left;
+	height:160px;
+	width:345px;
+	margin:auto;
+	margin:3px;
+	margin-top:15px;
+ }
+ 
+ #footerButtom
+ {
+	border-top:2px dotted #BF0CE7;
+	float:left;
+	height:50px;
+	width:1065px;
+	margin:auto;
+	margin:3px;
+	margin-left:10px;
+	margin-right:10px;
+	
+ }

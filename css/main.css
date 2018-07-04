@@ -1,0 +1,233 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* css for left side bar and right side bar */
+*
+{
+	margin:0px;
+	padding:0px;
+	
+
+}
+#main
+{
+	/*border: 2px solid #12D86C;*/
+	height:970px;
+	width:1090px;
+	margin:auto ;
+	margin:3px;
+	margin-top:10px;
+}
+
+
+#left-side
+{
+	/*border: 2px solid #D81338;*/
+	float:left;
+	height:610px;
+	width:750px;
+	margin:auto ;
+	margin-top:10px;
+	margin-left:5px;
+}
+
+#headsir
+{
+	/*border: 2px solid #48E711;*/
+	height:180px;
+	width:740px;
+	margin:auto ;
+	
+}
+
+#headlog
+{
+	/*border: 1px solid #660DBC;*/
+	float:left;
+	height:170px;
+	width:200px;
+	margin:auto ;
+}
+#headban
+{
+	/*border: 1px solid #660DBC;*/
+	float:right;
+	height:170px;
+	width:530px;
+	margin:auto ;
+}
+
+
+
+#teacher
+{
+	/*border: 1px solid #660DBC;*/
+	height:200px;
+	width:737px;
+	margin:auto ;
+	margin:7px;
+}
+
+
+#tname
+{
+	/*border: 1px solid #660DBC;*/
+	height:30px;
+	width:200px;
+	margin:auto ;
+}
+
+#tpic
+{
+	/*border: 1px solid #660DBC;*/
+	height:160px;
+	width:730px;
+	margin:auto ;
+}
+
+
+
+#meritial
+{
+	/*border: 1px solid #1E43D0 ;*/
+	height:200px;
+	width:737px;
+	margin:auto ;
+	margin:7px;
+}
+
+#meriname
+{
+	/*border: 1px solid #660DBC;*/
+	height:30px;
+	width:200px;
+	margin:auto ;
+}
+
+#meripic
+{
+	/*border: 1px solid #660DBC;*/
+	height:160px;
+	width:730px;
+	margin:auto ;
+}
+
+
+#right-side
+{
+	/*border: 2px solid #D81338;*/
+	float:right;
+	height:610px;
+	width:300px;
+	margin:auto ;
+	margin:10px;
+}
+
+#noticlog
+{
+	/*border:1px solid #BF0CE7;*/
+	background-color:#0A6376;
+	border-radius:15px;
+	height:50px;
+	width:290px;
+	margin:auto;
+	margin:3px;
+	
+}
+
+#noticbd
+{
+	border:1px solid #BF0CE7;
+	background-color:#5F540C;
+	height:530px;
+	width:290px;
+	margin:auto;
+	}
+
+
+#allNotice
+{
+	border:1px solid #BF0CE7;
+	height:30px;
+	width:290px;
+	margin:auto;
+	background-color:#0A6376;
+	text-align:center;
+	font-size:18px;
+	line-height:25px;
+
+}
+
+#links 
+{
+	/*border:1px solid #BF0CE7;*/
+	float:left;
+	height:320px;
+	width:345px;
+	margin:auto;
+	margin:3px;
+	margin-left:10px;
+	margin-top:15px;
+	
+}
+
+h2
+{
+	font-size:24px;
+	text-align:center;
+    margin:auto;
+}
+
+h1
+{
+	font-size:30px;
+	text-align:center;
+	margin:auto;
+	font-family:siyam rupali;
+	line-height:50px;
+}
+
+
+#link1
+{
+	float:left;
+	margin-left:20px;
+	margin-top:50px;
+}
+
+#link2
+{
+	float:right;
+	margin-right:20px;
+	margin-top:50px;
+}
+
+#gallery
+{
+	/*border:1px solid #BF0CE7;*/
+	float:left;
+	height:320px;
+	width:345px;
+	margin:auto;
+	margin:3px;
+	margin-left:10px;
+	margin-top:15px;
+}
+
+#vedio
+{
+	/*border:1px solid #BF0CE7;*/
+	float:right;
+	height:320px;
+	width:345px;
+	margin:auto;
+	margin:3px;
+	margin-right:10px;
+	margin-top:5px;
+}
+
+
+
+
+
+
